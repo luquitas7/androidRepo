@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RDMerchand</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="companyButonDescription">Company list</string>
+    <string name="login">Log In</string>
+    <string name="title_activity_main">RD Merchand</string>
+    <string name="title_activity_company_list">Choose a Company</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+	<string name="redeemImage">Redeem Offer</string>
+	<string name="campaignsImage">Campaigns</string>
+</resources>
